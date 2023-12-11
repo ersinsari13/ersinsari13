@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ersin SARI</h1>
-<h3 align="center">A passionate AWS and DevOps Engineer,Computer Engineering Student from Turkey</h3>
+<h3 align="center">A passionate Cloud and DevOps Engineer,Computer Engineering Student from Turkey</h3>
 
-- 🌱 I’m currently learning **AWS,Azure,Terraform,Ansible,Docker,Kubernetes,Jenkins,Nexus Artifact,Maven,Promethus,Grafana**
+- 🌱 I have experience **AWS,Azure,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana**
 
 - 📫 How to reach me **sariiersinn13@gmail.com**
 
