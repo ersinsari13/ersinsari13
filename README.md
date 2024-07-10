@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ersin SARI</h1>
-<h3 align="center">A passionate Cloud and DevOps Engineer,Computer Engineering Student from Turkey</h3>
+<h3 align="center">Cloud § DevOps § DevSecOps Engineer</h3>
 
-- 🌱 I have experience **AWS,Azure,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus Artifact,Maven,Promethus,Grafana**
+- 🌱 I have experience **AWS,Azure,Terraform,Ansible,Docker,Kubernetes,Jenkins,Azure DevOps,Nexus,Maven,Promethus,Grafana,ELK,ArgoCD**
 
 - 📫 How to reach me **sariiersinn13@gmail.com**
 
